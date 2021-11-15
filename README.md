@@ -1,16 +1,17 @@
 <div align="center">
 <h1>Strapi code themes</h1>
 <p style="margin-top: 0;">Some coding inspired theme presets for Strapi CMS.</p>
+<img src="https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/showcase.gif" alt="Themes showcase" />
 </div>
 
 ## ✨ Themes
 
-- Github dark mode
-- Monokai
-- Night owl
-- One dark pro
-- Shades of purple
-- Synthwave
+- [Github dark mode](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/githubDarkMode.png)
+- [Monokai](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/monokai.png)
+- [Night owl](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/nightOwl.png)
+- [One dark pro](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/oneDarkPro.png)
+- [Shades of purple](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/shadesOfPurple.png)
+- [Synthwave](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/synthwave.png)
 
 ## ⏳ Installation
 
