@@ -24,21 +24,6 @@ yarn add strapi-code-themes
 npm install strapi-code-themes --save
 ```
 
-Enjoy 🎉
-
-## 🖐 Requirements
-
-Complete installation requirements are the exact same as for Strapi itself and can be found in the [Strapi documentation](https://strapi.io/documentation).
-
-**Supported Strapi versions**:
-
-- Strapi v4.0.0-beta.12 (recently tested)
-- Strapi v4.x.x
-
-(This package may work with older Strapi versions, but these are not tested nor officially supported at this time.)
-
-**We recommend always using the latest version of Strapi to start your new projects**.
-
 ## 💡 Usage
 
 Inside the `/src/admin/app.js` file you can apply the theme to your Strapi installation. Add the following lines:
@@ -64,16 +49,6 @@ Feel free to fork and make a pull request of this plugin. All the input is welco
 ## ⭐️ Show your support
 
 Give a star if this project helped you.
-
-## 🔗 Links
-
-- [NPM package](https://www.npmjs.com/package/strapi-code-themes)
-- [GitHub repository](https://github.com/boazpoolman/strapi-code-themes)
-
-## 🌎 Community support
-
-- For general help using Strapi, please refer to [the official Strapi documentation](https://strapi.io/documentation/).
-- You can contact me on the Strapi Discord [channel](https://discord.strapi.io/).
 
 ## 📝 Resources
 
