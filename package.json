@@ -1,6 +1,6 @@
 {
   "name": "strapi-code-themes",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Some coding inspired theme presets for Strapi CMS.",
   "main": "index.js",
   "author": {
