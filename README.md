@@ -1,17 +1,17 @@
 <div align="center">
 <h1>Strapi code themes</h1>
 <p style="margin-top: 0;">Some coding inspired theme presets for Strapi CMS.</p>
-<img src="https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/showcase.gif" alt="Themes showcase" />
+<img src="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/showcase.gif" alt="Themes showcase" />
 </div>
 
 ## ✨ Themes
 
-- [Github dark mode](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/githubDarkMode.png)
-- [Monokai](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/monokai.png)
-- [Night owl](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/nightOwl.png)
-- [One dark pro](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/oneDarkPro.png)
-- [Shades of purple](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/shadesOfPurple.png)
-- [Synthwave](https://github.com/boazpoolman/strapi-code-themes/tree/master/.github/screenshots/synthwave.png)
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/githubDarkMode.png" target="_blank">Github dark mode</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/monokai.png" target="_blank">Monokai</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/nightOwl.png" target="_blank">Night owl</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/oneDarkPro.png" target="_blank">One dark pro</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/shadesOfPurple.png" target="_blank">Shades of purple</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/synthwave.png" target="_blank">Synthwave</a>
 
 ## ⏳ Installation
 
@@ -30,15 +30,27 @@ npm install strapi-code-themes --save
 Inside the `/src/admin/app.js` file you can apply the theme to your Strapi installation. Add the following lines:
 
 ```
-import { monokai } from 'strapi-code-themes';
+import { shadesOfPurple } from 'strapi-code-themes';
 
 export default {
   config: {
     theme: {
-      colors: monokai,
+      colors: shadesOfPurple,
     },
   },
 };
+```
+
+After setting up your theme you will have to rebuild you Strapi admin UI. To rebuild and restart Strapi run:
+
+```bash
+# using yarn
+yarn build --clean
+yarn develop
+
+# using npm
+npm run build --clean
+npm run develop
 ```
 
 Now you're all set. Enjoy your Strapi admin themes!
