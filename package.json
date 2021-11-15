@@ -1,0 +1,31 @@
+{
+  "name": "strapi-code-themes",
+  "version": "1.0.0",
+  "description": "Some coding inspired theme presets for Strapi CMS.",
+  "main": "index.js",
+  "author": {
+    "name": "Boaz Poolman",
+    "email": "info@boazpoolman.nl",
+    "url": "https://github.com/boazpoolman"
+  },
+  "maintainers": [
+    {
+      "name": "Boaz Poolman",
+      "email": "info@boazpoolman.nl",
+      "url": "https://github.com/boazpoolman"
+    }
+  ],
+  "files": [
+    "themes",
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/boazpoolman/strapi-code-themes/issues"
+  },
+  "homepage": "https://github.com/boazpoolman/strapi-code-themes#readme",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
