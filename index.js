@@ -5,4 +5,5 @@ module.exports = {
   oneDarkPro: require('./themes/one-dark-pro'),
   shadesOfPurple: require('./themes/shades-of-purple'),
   synthwave: require('./themes/synthwave'),
+  dracula: require('./themes/dracula')
 }
