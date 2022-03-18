@@ -12,6 +12,7 @@
 - <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/oneDarkPro.png" target="_blank">One dark pro</a>
 - <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/shadesOfPurple.png" target="_blank">Shades of purple</a>
 - <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/synthwave.png" target="_blank">Synthwave</a>
+- <a href="https://raw.githubusercontent.com/boazpoolman/strapi-code-themes/master/.github/screenshots/dracula.png" target="_blank">Dracula</a>
 
 ## ⏳ Installation
 
