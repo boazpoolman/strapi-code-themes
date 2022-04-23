@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   danger100: '#011627', // TOGGLE OFF BG
   danger700: '#bf4c69', // TOGGLE OFF COLOR
   neutral0: '#081d30', // BACKGROUND SIDEBAR
