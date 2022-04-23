@@ -4,21 +4,7 @@
     "outDir": "./lib",
     "target": "esnext",
     "module": "commonjs",
-    // "moduleResolution": "node",
-    // "allowSyntheticDefaultImports": true,
-    // "esModuleInterop": true,
-    // "strict": true,
-    // "noUnusedLocals": true,
-    // "noUnusedParameters": true,
-    // "removeComments": true,
-    // "sourceMap": true,
     "declaration": true,
-    // "declarationMap": true,
-    // "downlevelIteration": true,
-    // "incremental": true,
-    // "allowJs": true,
-    // "skipLibCheck": true,
-    // "resolveJsonModule": true
   },
   "include": [
     "./themes/**/*",
@@ -28,6 +14,6 @@
     "**/node_modules/**/*",
     "**/__tests__/**/*",
     "**/__mocks__/**/*",
-    "**/build/**/*"
+    "**/lib/**/*"
   ]
 }
