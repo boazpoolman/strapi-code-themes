@@ -6,7 +6,7 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "publish": "cd build && yarn publish"
+    "publish": "yarn build && yarn publish"
   },
   "author": {
     "name": "Boaz Poolman",
