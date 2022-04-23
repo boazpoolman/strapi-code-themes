@@ -1,12 +1,11 @@
 {
   "name": "strapi-code-themes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some coding inspired theme presets for Strapi CMS.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc",
-    "publish": "yarn build && yarn publish"
+    "build": "tsc"
   },
   "author": {
     "name": "Boaz Poolman",
