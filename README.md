@@ -31,12 +31,12 @@ npm install strapi-code-themes --save
 Inside the `/src/admin/app.js` file you can apply the theme to your Strapi installation. Add the following lines:
 
 ```
-import { shadesOfPurple } from 'strapi-code-themes';
+import themes from 'strapi-code-themes';
 
 export default {
   config: {
     theme: {
-      colors: shadesOfPurple,
+      colors: themes.shadesOfPurple,
     },
   },
 };
@@ -46,11 +46,11 @@ After setting up your theme you will have to rebuild you Strapi admin UI. To reb
 
 ```bash
 # using yarn
-yarn build --clean
+yarn build
 yarn develop
 
 # using npm
-npm run build --clean
+npm run build
 npm run develop
 ```
 
